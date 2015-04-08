@@ -623,7 +623,7 @@ nav#filter a {
 	color:#555;
 }
 nav#filter a:hover, nav#filter a.current {
-	background-color: #44BCDD;
+	background-color: #32BF3B;
 	color:#fff;
 }
 
